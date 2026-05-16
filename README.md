@@ -3,7 +3,7 @@ Shilpa Kala is a mobile application developed to showcase and promote traditiona
 ## 📱 App Screens
 
 ### Home Screen
-![Home Screen]()
+![Home Screen](front_page)
 
 ### Profile Screen
 ![Profile Screen](images/profile.png)
